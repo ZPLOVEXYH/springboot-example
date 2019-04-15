@@ -11,5 +11,7 @@
 
     <modules>
         <module>springboot-logback-elk</module>
+        <module>springboot-elasticsearch</module>
+        <module>springboot-docker</module>
     </modules>
 </project>
